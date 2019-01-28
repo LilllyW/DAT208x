@@ -1,0 +1,13 @@
+In [1]: "I can add integers, like " + str(5) + " to strings."
+Out[1]: 'I can add integers, like 5 to strings.'
+
+In [2]: "I said " + ("Hey " * 2) + "Hey!"
+Out[2]: 'I said Hey Hey Hey!'
+
+In [3]: "The correct answer to this multiple choice exercise is answer number " + 2
+Traceback (most recent call last): File "<stdin>", line 1, in <module>
+"The correct answer to this multiple choice exercise is answer number " + 2
+TypeError: Can't convert 'int' object to str implicitly
+
+In [4]: True + False
+Out[4]: 1
