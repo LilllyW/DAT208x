@@ -1,0 +1,11 @@
+Which of the following is a characteristic of a Python list?
+  It is a way to name a collection of values, instead of having to create separate variables for each element.
+
+You use "type(fam)" and "type(fam2)" to reveal the type of a Python list. What is the result?
+  list
+
+Which command is invalid Python syntax to create a list x?
+  x = ["this", "is", "a" True "list"]
+
+Which three Python data types does this list contain?  x = ["you", 2, "are", "so", True]
+  int , str , bool
