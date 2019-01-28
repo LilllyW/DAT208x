@@ -1,8 +1,0 @@
-Q1:Which of the following statements is correct?
-   The IPython Shell is typically used to work with Python interactively.
-   
-Q2:Which file extension is used for Python script files?
-  .py
-  
-Q3:You need to print the result of adding 3 and 4 inside a script. Which line of code should you write in the script?
-  print(3 + 4)
